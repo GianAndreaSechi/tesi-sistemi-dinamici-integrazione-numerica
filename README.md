@@ -1,6 +1,6 @@
 # tesi-sistemi-dinamici-integrazione-numerica
 
-##Sistemi Dinamici A Tempo Continuo E Metodi di Integrazione Numerica
+## Sistemi Dinamici A Tempo Continuo E Metodi di Integrazione Numerica
 
 In questa tesina illustrerò come implementare il modello di Lorenz 1963 tramite l'utilizzo di tre sistemi di integarzione numerica: Eulero, Runge-Kutta al 2°ordine e Runge-Kutta al 4° ordine e ne illustrerò le differenze.
 
